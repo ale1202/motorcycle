@@ -1,0 +1,28 @@
+﻿("http://motorcycleapialexandre.herokuapp.com")
+login						= admin
+password					= admin
+concessionaria 					= motorcycle
+excelcior					= moto
+concessionária excelcior 			= motor
+stiven 						= R1000
+Carro						= Moto
+carro						= moto
+
+motorcycleapi\src\main\resources\application.properties
+
+falta Alterar criar banco e ajustar o host e porta
+spring.data.mongodb.host=ds023442.mlab.com
+spring.data.mongodb.port=23442
+spring.data.mongodb.database=motor_cycle
+spring.data.mongodb.username=admin
+spring.data.mongodb.password=admin1
+
+Moto(@Id var id: String?,
+		 var marca: String,
+		 var modelo: String,
+		 var ano: Int, 
+		 var placa: String?,
+		 var urlImagem: String?,
+		 var preco: Int, 
+		 var descricao: String?)
+

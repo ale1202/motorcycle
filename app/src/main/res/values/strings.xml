@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Motorcycle</string>
+    <string name="title_home">Motorcycle</string>
+    <string name="title_dashboard">New Motorcycle</string>
+    <string name="title_notifications">About</string>
+    <string name="hint_login">User</string>
+    <string name="hint_senha">Password</string>
+    <string name="btn_login">Log-in</string>
+    <string name="btn_cadastrar">Sing-up</string>
+    <string name="btn_cadastro">Register</string>
+    <string name="btn_voltar">Back</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_confirma">Confirm Password</string>
+    <string name="todo">TODO</string>
+    <string name="login_usuario">Login</string>
+    <string name="lista_motos">Motorcycle List</string>
+    <string name="cadastro_usuario">Register User</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buscar_marca">Search Brand</string>
+    <string name="manter">Do you want to stay logged in?</string>
+    <string name="input_marca">Motorcycle Brand</string>
+    <string name="input_modelo">Motorcycle Model</string>
+    <string name="input_ano">Motorcycle Year</string>
+    <string name="input_placa">License Plate</string>
+    <string name="input_imagem">Image URL</string>
+    <string name="input_preco">Motorcycle Price</string>
+    <string name="input_descricao">Motorcycle Description</string>
+    <string name="deletar_moto">Delete Motorcycle</string>
+    <string name="loading_spinner">Loading...</string>
+    <string name="btn_logout">Log-out</string>
+    <string name="desenvolvedor">Developed by Alexandre</string>
+    <string name="versao">Version 1.0</string>
+</resources>

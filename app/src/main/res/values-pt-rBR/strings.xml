@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motorcycle</string>
+    <string name="title_home">Motos</string>
+    <string name="title_dashboard">Nova Moto</string>
+    <string name="title_notifications">Sobre</string>
+    <string name="hint_login">Usuário</string>
+    <string name="hint_senha">Senha</string>
+    <string name="btn_login">Logar</string>
+    <string name="btn_cadastrar">Cadastrar-se</string>
+    <string name="btn_cadastro">Cadastrar</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_confirma">Confirme a Senha</string>
+    <string name="login_usuario">Login</string>
+    <string name="lista_motos">Lista de Motos</string>
+    <string name="cadastro_usuario">Cadastro de Usuários</string>
+    <string name="todo">Construindo</string>
+    <string name="input_marca">Marca</string>
+    <string name="input_modelo">Modelo</string>
+    <string name="input_ano">Ano</string>
+    <string name="input_placa">Placa</string>
+    <string name="input_imagem">Url da Imagem</string>
+    <string name="input_preco">Preço</string>
+    <string name="input_descricao">Descrição da Moto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="loading_spinner">Carregando...</string>
+    <string name="btn_logout">Sair</string>
+    <string name="desenvolvedor">By Alexandre</string>
+    <string name="versao">Versão 1.0</string>
+    <string name="buscar_marca">Buscar Marca</string>
+    <string name="manter">Manter-se logado?</string>
+    <string name="deletar_moto">Deletar Moto</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
